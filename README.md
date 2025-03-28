@@ -1,5 +1,5 @@
 #Individual Assignment- Create a Readme File. 
-This project involves analyzing salary data using Python and the Pandas library. It includes various data manipulation techniques such as importing datasets, calculating new columns, filtering, grouping, and appending data. The goal is to demonstrate effective data processing for structured datasets and enable efficient salary trend analysis.
+This project analyses the salary dataset that I Uplloaded in python, using a Pandas Library abd coding on Jupiter Notebook, This code includes various manipulation techniques that are very important, for instance my file includes techniques like, importing datasetsm calculating new columns, append, concatonate, filtering and grouping, etc., The main objective of teh dataset and coding through my file is to demonstrate effective data processing techniques for structured datasets which provides an efficient salary trend analysis.
 
 ##Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. See the deployment section for notes on how to deploy the project on a live system.
