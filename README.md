@@ -19,9 +19,6 @@ pip install pandas numpy
 ####Installing
 Follow these steps to set up the project:
 
-Clone this repository:
-
-git clone https://github.com/your-repo/salary-analysis.git
 
 Ensure that the Salaries.csv file is placed in the correct directory.
 
