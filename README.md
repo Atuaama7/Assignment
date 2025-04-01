@@ -4,7 +4,7 @@ This project analyses the salary dataset that I Uplloaded in python, using a Pan
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. See the deployment section for notes on how to deploy the project on a live system.
 
-###Prerequisites
+### Prerequisites
 Before running the script, ensure you have the following installed:
 
 Python 3.x (Download)
@@ -16,7 +16,7 @@ NumPy library (for numerical operations)
 To install the required libraries, run:
 pip install pandas numpy
 
-####Installing
+#### Installing
 Follow these steps to set up the project:
 
 
@@ -24,7 +24,7 @@ Ensure that the Salaries.csv file is placed in the correct directory.
 
 Open the script in your preferred Python IDE (e.g., Jupyter Notebook, PyCharm, VS Code) or run it directly in the terminal.
 
-#####Running the Tests
+##### Running the Tests
 This script performs various data manipulation tasks. Below is a breakdown of key functionalities:
 
 End-to-End Tests
@@ -61,7 +61,7 @@ Groups data by rank and sex for trend analysis.
 
 Uses .groupby() to count occurrences of different ranks and genders.
 
-#####Coding Style Tests
+###### Coding Style Tests
 
 The script follows Python best practices with structured functions.
 
@@ -69,7 +69,7 @@ Uses Pandas and NumPy for efficient data handling.
 
 Code is structured for readability and reusability.
 
-######Deployment
+####### Deployment
 
 This script is designed for local execution but can be extended for:
 
@@ -87,21 +87,21 @@ Use cloud platforms (e.g., AWS, Google Cloud) for scalability.
 
 Automate data retrieval and analysis with scheduling tools.
 
-#######Built With
+######## Built With
 
 Pandas - Data manipulation library
 
 NumPy - Numerical computing library
 
-########Contributing
+######### Contributing
 
 Please read CONTRIBUTING.md for details on the code of conduct and guidelines for submitting pull requests.
 
-########Versioning
+######### Versioning
 
 We use SemVer for versioning. For available versions, see the tags on this repository.
 
-#########Authors
+########## Authors
 
 Syed Athar Ali - Initial work
 
@@ -109,7 +109,7 @@ Syed Athar Ali - Initial work
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-##########Acknowledgments
+########### Acknowledgments
 
 Open-source Python community for maintaining Pandas and NumPy.
 
