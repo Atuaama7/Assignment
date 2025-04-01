@@ -25,33 +25,33 @@ After that we have to make sure that script is opened in the python ide of your 
 
 
 # Running the Tests
-This script performs various data manipulation tasks. Below is a breakdown of key functionalities:
+This script executes different operations on data processing. The following list includes explanations of vital operational capabilities:
 
 End-to-End Tests
 
 Importing Data:
 
-Reads a CSV file (Salaries.csv) into a Pandas DataFrame.
+The script imports the Salaries.csv CSV file which transforms its data to a Pandas DataFrame.
 
-Displays the first few rows (.head()).
+The command .head() shows the initial lines of the data set.
 
 Checks dataset dimensions using .shape.
 
 Adding New Columns:
 
-Introduces a Benchmarks column with a constant value of 70,000.
+The script adds a Benchmarks column which contains the constant value 70,000.
 
-Computes Salary_score as salary / Benchmarks, rounded to two decimal places.
+A new column named Salary_score receives the value salary / Benchmarks with a rounding precision of two decimal places.
 
 Dropping Columns:
 
-Demonstrates two methods to remove specific columns using .drop().
+Two approaches to delete particular columns are displayed using the .drop() function.
 
-Creates dataset subsets with selected columns.
+The program function splits input data into different subsets while choosing specific columns to work with.
 
 Appending Data:
 
-Adds new records dynamically to a DataFrame.
+A DataFrame receives dynamically added new records through this operation.
 
 Merges two DataFrames using pd.concat().
 
@@ -59,7 +59,7 @@ Grouping and Aggregation:
 
 Groups data by rank and sex for trend analysis.
 
-Uses .groupby() to count occurrences of different ranks and genders.
+This query uses .groupby() to identify and count rank and gender combinations that appear in the data.
 
 # Coding Style Tests
 
