@@ -24,7 +24,7 @@ Ensure that the Salaries.csv file is placed in the correct directory.
 
 Open the script in your preferred Python IDE (e.g., Jupyter Notebook, PyCharm, VS Code) or run it directly in the terminal.
 
-##### Running the Tests
+###### Running the Tests
 This script performs various data manipulation tasks. Below is a breakdown of key functionalities:
 
 End-to-End Tests
@@ -97,15 +97,12 @@ NumPy - Numerical computing library
 
 Please read CONTRIBUTING.md for details on the code of conduct and guidelines for submitting pull requests.
 
-######### Versioning
-
-We use SemVer for versioning. For available versions, see the tags on this repository.
 
 ########## Authors
 
 Syed Athar Ali - Initial work
 
-#########License
+######### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
