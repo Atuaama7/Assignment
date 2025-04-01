@@ -19,10 +19,10 @@ pip install pandas numpy
 # Installing
 Follow these steps to set up the project:
 
+We have to make sure that the Salaries.csv file is in the right directory,
 
-Ensure that the Salaries.csv file is placed in the correct directory.
+After that we have to make sure that script is opened in the python ide of your preference. (Jupyter Notebook or Pycharm).
 
-Open the script in your preferred Python IDE (e.g., Jupyter Notebook, PyCharm, VS Code) or run it directly in the terminal.
 
 # Running the Tests
 This script performs various data manipulation tasks. Below is a breakdown of key functionalities:
