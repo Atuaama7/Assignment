@@ -102,11 +102,11 @@ Please read CONTRIBUTING.md for details on the code of conduct and guidelines fo
 
 Syed Athar Ali - Initial work
 
-######### License
+########### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-########### Acknowledgments
+############ Acknowledgments
 
 Open-source Python community for maintaining Pandas and NumPy.
 
